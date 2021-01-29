@@ -3,4 +3,4 @@ Colección de patrones de diseño construidos con C#
 
 
 TO DO
-- Service Locator
+- Service Locator Pattern
